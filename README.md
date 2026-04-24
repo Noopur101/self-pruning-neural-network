@@ -13,7 +13,7 @@ Open the notebook:
 pruning.ipynb
 
 ## Results
-(Add your results here)
+output.png
 
 ## Key Insight
 L1 regularization pushes gate values to zero, pruning unnecessary weights.

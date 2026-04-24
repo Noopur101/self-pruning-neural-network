@@ -51,11 +51,6 @@ This allows the model to automatically retain only the most important connection
 
 ---
 
-## Gate Value Distribution
-
-Below is the distribution of learned gate values for the best-performing model:
-
-![Gate Distribution](outputs.png)
 
 ### Interpretation
 
